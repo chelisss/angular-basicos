@@ -8,7 +8,7 @@ import { ContadorComponent } from './contador/contador/contador.component';
 import { HeroesModule } from './heroes/heroes.module';
 
 
-@NgModule({
+@NgModule ({
   declarations: [
     AppComponent,
     /* ContadorComponent, */
